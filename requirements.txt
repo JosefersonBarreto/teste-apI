@@ -2,4 +2,3 @@ plotly==4.14.3
 pandas==1.2.0
 streamlit==1.9.0
 investpy==1.0.8
-datatime==4.4
